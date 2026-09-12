@@ -4,7 +4,7 @@ import time
 import sphinx_rtd_theme
 
 html_logo = "images/EasyGo Solutions_logo_70x61@2x.png"
-html_favicon = "images/favicon.ico"
+html_favicon = "images/favicon.png"
 project = u'EasyGo Solutions User Documentation'
 copyright = u'%s, The EasyGo Solutions Foundation' % time.strftime("%Y")
 author = u'The EasyGo Solutions Foundation'
