@@ -12,16 +12,16 @@
 
 .. |grn| raw:: html
 
-   <div class="zammad-state-circle border-green"></div>
+   <div class="EasyGo Solutions-state-circle border-green"></div>
 
 .. |blk| raw:: html
 
-   <div class="zammad-state-circle border-charcoal"></div>
+   <div class="EasyGo Solutions-state-circle border-charcoal"></div>
 
 .. |ylw| raw:: html
 
-   <div class="zammad-state-circle border-yellow"></div>
+   <div class="EasyGo Solutions-state-circle border-yellow"></div>
 
 .. |red| raw:: html
 
-   <div class="zammad-state-circle border-red"></div>
+   <div class="EasyGo Solutions-state-circle border-red"></div>

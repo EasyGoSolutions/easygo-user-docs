@@ -66,9 +66,9 @@ Refer to other tickets in the checklist
       button at the top or use the keyboard shortcut :kbd:`.` in that ticket.
 
 Check of completed checklist
-   Zammad includes a feature to automatically check if all checklist items are
+   EasyGo Solutions includes a feature to automatically check if all checklist items are
    completed. The check is performed when you set a ticket to closed.
-   If not all items are completed, Zammad will prompt you to either work on the
+   If not all items are completed, EasyGo Solutions will prompt you to either work on the
    remaining tasks and keep the ticket open or to close it anyway.
 
    When referencing other tickets in your checklist, only those which are

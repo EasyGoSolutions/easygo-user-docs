@@ -1,4 +1,4 @@
-﻿User Menu & Profile Settings
+User Menu & Profile Settings
 ============================
 
 Click on your avatar or initials at the bottom of the navigation sidebar to
@@ -28,7 +28,7 @@ User Menu
          Quickly toggle dark and light mode without using a keyboard shortcut.
 
       Continue to mobile
-         Opens the :doc:`mobile view <mobile-view>` of Zammad. Use this if you
+         Opens the :doc:`mobile view <mobile-view>` of EasyGo Solutions. Use this if you
          are on a device with limited display size and the automatic forwarding
          didn't work.
 
@@ -66,7 +66,7 @@ account.
 
 :Appearance:
 
-   Select how Zammad should look. Zammad will remember the setting you choose
+   Select how EasyGo Solutions should look. EasyGo Solutions will remember the setting you choose
    here.
 
    - Dark
@@ -74,7 +74,7 @@ account.
    - Sync with computer
 
    For dark and light you'll fix the dark or light mode to your taste. If you
-   choose sync with computer, Zammad will dynamically select the mode depending
+   choose sync with computer, EasyGo Solutions will dynamically select the mode depending
    on what your client prefers at that moment. Note that this sync option highly
    depends on your browser. If your browser does not support syncing, this
    setting basically has no effect. However, most modern browsers are capable of
@@ -117,7 +117,7 @@ account.
       .. note::
          Notifications you have already read are removed from the list
          automatically. Ones you marked as read yourself disappear after about
-         ten minutes. Ones Zammad marked as read for you - which happens when
+         ten minutes. Ones EasyGo Solutions marked as read for you - which happens when
          someone else changes the state of the ticket the notification belongs
          to - remain for about eight hours. Independently of this, no
          notification is kept for longer than nine months.
@@ -185,20 +185,20 @@ account.
 
 :Devices:
 
-   See a list of all devices logged into your Zammad account (and revoke
+   See a list of all devices logged into your EasyGo Solutions account (and revoke
    access, if necessary).
 
 :Token Access:
 
    Generate personal access tokens for third party applications to use the
-   Zammad API.
+   EasyGo Solutions API.
 
    .. tip::
-      Always generate a new token for each application you connect to Zammad!
+      Always generate a new token for each application you connect to EasyGo Solutions!
       This makes it possible to revoke access for individual applications
       if a token is ever compromised.
 
 :Linked Accounts:
 
    See a list of third party services (e.g. Facebook or Google) linked to
-   your Zammad account.
+   your EasyGo Solutions account.

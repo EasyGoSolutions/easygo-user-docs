@@ -92,11 +92,11 @@ This means you can adjust the following ticket information:
 - State (with pending time, if applicable)
 - Priority
 
-After pressing ``Confirmation``, Zammad also allows you to provide an internal
+After pressing ``Confirmation``, EasyGo Solutions also allows you to provide an internal
 or public note in the **Comment** field which gets added to each of the selected
 tickets.
 
-Zammad doesn't ask for
+EasyGo Solutions doesn't ask for
 :doc:`time accounting values </advanced/time-accounting>` in bulk actions.
 
 Bulk action via drop-downs
@@ -110,7 +110,7 @@ Bulk action via drop-downs
 
 Bulk action via drag and drop
    You can change owners and groups even faster. Instead of using the drop-downs
-   on the bottom of Zammad, you can drag tickets by pressing and holding
+   on the bottom of EasyGo Solutions, you can drag tickets by pressing and holding
    your mouse button. Doing so triggers an overlay and allows you to drop your
    selection on your desired action or entity. You can select a group, assign
    an owner or run a macro. This functionality is only available in overviews

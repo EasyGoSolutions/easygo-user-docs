@@ -1,8 +1,8 @@
-Zammad User Documentation
+EasyGo Solutions User Documentation
 =========================
 
 .. hint::
-   You are currently reading the Zammad user documentation. There are
+   You are currently reading the EasyGo Solutions user documentation. There are
    also :docs:`system </index.html>` and
    :admin-docs:`administration manuals </index.html>` available.
 
@@ -12,8 +12,8 @@ Zammad User Documentation
    :caption: Basics
    :name: basics
 
-   /basics/zammad-glossary
-   /basics/zammad-ui
+   /basics/EasyGo Solutions-glossary
+   /basics/EasyGo Solutions-ui
    /basics/ticket-basics
    /basics/find-tickets
    /basics/create-tickets

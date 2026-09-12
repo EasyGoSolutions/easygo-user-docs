@@ -1,7 +1,7 @@
-﻿Time Accounting
+Time Accounting
 ===============
 
-Zammad supports detailed time accounting to help administrators keep track of
+EasyGo Solutions supports detailed time accounting to help administrators keep track of
 how much time you spend on any given ticket, customer or client organization.
 If the time accounting is enabled, a dialog appears each time you update
 a ticket. There you can enter how much time you spent on it.

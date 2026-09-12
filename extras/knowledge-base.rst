@@ -1,4 +1,4 @@
-﻿Knowledge Base
+Knowledge Base
 ==============
 
 Manage, edit and organize your knowledge base content by opening the
@@ -22,7 +22,7 @@ Getting Started
    :alt: Knowledge Base Link to published knowledge base
    :align: center
 
-Use the ↗️ button in the top toolbar to see the published knowledge base.
+Use the ?? button in the top toolbar to see the published knowledge base.
 
 .. figure:: /images/extras/knowledge-base/knowledge-base-edit.png
    :alt: Knowledge Base Edit Mode
@@ -49,7 +49,7 @@ If you select a language, in which the page hasn't been translated into yet,
 the behavior depends on the state of the page:
 
 In edit mode
-   Untranslated pages are marked with a ⚠️ **warning sign**:
+   Untranslated pages are marked with a ?? **warning sign**:
 
    .. figure:: /images/extras/knowledge-base/knowledge-base-missing-translation-edit.png
       :alt: Missing translation warning
@@ -73,7 +73,7 @@ In the published knowledge base
 Using RSS Feeds
 ---------------
 
-Zammad allows you to subscribe to either the knowledge base as a whole or to
+EasyGo Solutions allows you to subscribe to either the knowledge base as a whole or to
 specific categories. There's both a public and an internal option to do so.
 By default, RSS feeds are disabled. If you wish to use the RSS function,
 talk to your administrator about enabling the function.
@@ -173,7 +173,7 @@ Editing Answers
    :align: center
 
 The knowledge base editor comes equipped with the same
-**rich text editing capabilities** available in the Zammad ticket composer.
+**rich text editing capabilities** available in the EasyGo Solutions ticket composer.
 That means you can use the same
 :doc:`keyboard shortcuts </advanced/keyboard-shortcuts>` to insert formatted
 text, bullet lists and more. You can even add file attachments and links!
@@ -192,13 +192,13 @@ Different link types
 
    Video
       Include a video to embed in the answer. By default, you can embed videos
-      from Vimeo and YouTube. Depending on your Zammad settings, MediaCMS and
+      from Vimeo and YouTube. Depending on your EasyGo Solutions settings, MediaCMS and
       PeerTube instances can be enabled by your admin as well. A list of
       supported video services is displayed in the video dialog below the URL
       field.
 
    Related Tickets
-      Internal references to Zammad tickets (visible only in preview and edit
+      Internal references to EasyGo Solutions tickets (visible only in preview and edit
       mode).
 
    Attachments

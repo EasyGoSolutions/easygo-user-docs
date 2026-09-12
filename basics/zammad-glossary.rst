@@ -1,4 +1,4 @@
-Zammad Glossary
+EasyGo Solutions Glossary
 ===============
 
 Ever wondered what we mean by a specific term?
@@ -19,28 +19,28 @@ A
 -
 
 Admin
-   An admin(istrator) is a user in Zammad who has special rights.
+   An admin(istrator) is a user in EasyGo Solutions who has special rights.
    Admins can configure user accesses, time recording settings, templates,
    and text modules and, on a higher level, integrations, reporting, etc.
-   So if you're looking to make a change within your Zammad and you find that
+   So if you're looking to make a change within your EasyGo Solutions and you find that
    it doesn't work, find an admin in your organization and ask them - chances
    are, they can help.
 
 Agent
-   An agent is what we call a user in Zammad who processes tickets/inquiries.
-   There are usually several or many agents who use Zammad regularly and
+   An agent is what we call a user in EasyGo Solutions who processes tickets/inquiries.
+   There are usually several or many agents who use EasyGo Solutions regularly and
    sometimes even consider it their main tool. Some of them are admins,
    meaning that they can change settings, user rights, and so on (see above).
 
 API
    An API (Application Programming Interface) is a connection that allows you
-   to create or modify business objects. Zammad has a REST
+   to create or modify business objects. EasyGo Solutions has a REST
    (`Representational State Transfer <https://en.wikipedia.org/wiki/Representational_state_transfer>`_)
    API that allows our users, among other things, to connect third-party systems
    to their instance (such as social media or messengers).
 
    You can learn more on our
-   `API landing page <https://zammad.com/en/product/features/rest-api>`_.
+   `API landing page <https://EasyGo Solutions.com/en/product/features/rest-api>`_.
 
 Article
    Each correspondence within a ticket is called an article. Ticket articles
@@ -48,24 +48,24 @@ Article
    (e.g. emails to your customers, which they receive, too).
 
 Auto Response
-   Zammad can send automatically generated responses to customers. By
+   EasyGo Solutions can send automatically generated responses to customers. By
    default, this is configured for newly created tickets (to confirm that the
    email was received and to provide the ticket number to the customer). Your
    admin may change this or even add more auto generated messages.
 
 Automation
-   There are many processes that can be automated with Zammad.
+   There are many processes that can be automated with EasyGo Solutions.
    This means that certain steps or actions take place automatically,
    hence no further action is required from the agents.
    One example would be the weekly deletion of tickets at a pre-defined time.
 
 Autosave
-   Autosave might be one of the coolest traits of Zammad:
+   Autosave might be one of the coolest traits of EasyGo Solutions:
    It saves all your work as you go along, so if you ever log out unexpectedly
    or your browser crashes (we've all been there…) none of your work gets lost!
 
    You can learn more on our
-   `Autosave landing page <https://zammad.com/en/product/features/autosave>`_.
+   `Autosave landing page <https://EasyGo Solutions.com/en/product/features/autosave>`_.
 
 .. _glossary-avatar:
 
@@ -75,7 +75,7 @@ Avatar
    too. To customize it, go to the avatar section in your
    :doc:`user profile </extras/user-menu-profile-settings>`.
 
-   The avatar of a user is visible in different places in Zammad. For example
+   The avatar of a user is visible in different places in EasyGo Solutions. For example
    you can see it next to an article in a ticket or in the bottom bar if
    another agent is viewing or editing the same ticket.
 
@@ -83,7 +83,7 @@ B
 -
 
 Branding
-   Every company has a different identity, and Zammad accommodates this in
+   Every company has a different identity, and EasyGo Solutions accommodates this in
    various ways, e.g. by letting you design your signatures freely and add
    your company logo to the platform.
 
@@ -97,7 +97,7 @@ Changelog
    With every new release comes a new changelog. It is basically a list of all
    the things that have changed, from new enhancements to bug fixes.
 
-   You can find them all on our `GitHub <https://github.com/zammad/zammad/blob/stable/CHANGELOG.md>`_!
+   You can find them all on our `GitHub <https://github.com/EasyGo Solutions/EasyGo Solutions/blob/stable/CHANGELOG.md>`_!
 
 Channel
    A channel is a way how customers can get in touch with you. Standard channels
@@ -105,8 +105,8 @@ Channel
 
 Checkmk
    Checkmk is a powerful IT monitoring tool that can send real-time status
-   alerts to Zammad via email or REST API. Set these alerts up in Checkmk,
-   and Zammad will automatically create, update, and close tickets based on
+   alerts to EasyGo Solutions via email or REST API. Set these alerts up in Checkmk,
+   and EasyGo Solutions will automatically create, update, and close tickets based on
    the health of your system.
 
    Learn more about checkmk integration
@@ -114,7 +114,7 @@ Checkmk
 
 Clearbit
    Clearbit is a marketing data engine designed to collect information on your
-   contacts. Thus, new queries from unknown users in Zammad can be automatically
+   contacts. Thus, new queries from unknown users in EasyGo Solutions can be automatically
    enriched with information such as company, number of employees,
    annual turnover, industry, and much more.
 
@@ -123,7 +123,7 @@ Clearbit
 
 Conflict Warning
    When two agents edit the same ticket at the same time, a lot can go wrong -
-   from duplicate replies to overwritten messages. Zammad helps you to avoid
+   from duplicate replies to overwritten messages. EasyGo Solutions helps you to avoid
    this with its integrated conflict warning. So if you see another agents
    avatar and a little pen at the bottom of your ticket, it means they are
    currently editing it.
@@ -146,7 +146,7 @@ CTI
    This includes, for example, a call log, an overview of which agent is
    currently on a call, a caller ID search, and even a Do-Not-Disturb-Mode.
 
-   You can learn more on our `CTI landing page <https://zammad.com/en/product/features/cti-integration>`_.
+   You can learn more on our `CTI landing page <https://EasyGo Solutions.com/en/product/features/cti-integration>`_.
 
    Here you can find the fitting documentation pages:
 
@@ -155,7 +155,7 @@ CTI
       * :admin-docs:`sipgate CTI </system/integrations/cti/sipgate.html>`
 
 Custom Development (CD)
-   We are constantly working on improving Zammad, and we keep adding new
+   We are constantly working on improving EasyGo Solutions, and we keep adding new
    features with every single release. However, sometimes our customers might
    require a very specific new feature, addition, or adjustment that is either
    very urgent or very particular to their individual use case.
@@ -164,20 +164,20 @@ Custom Development (CD)
    (which is based on the expected hours needed for completion).
 
 Custom Object Attributes
-   Zammad allows the creation of custom object attributes by admins. This can be
+   EasyGo Solutions allows the creation of custom object attributes by admins. This can be
    done on ticket level, user level, organization level or group level.
 
    You can think of such a custom object attribute as a new field which has
    a pre-defined format and optionally selectable values.
 
 Customer
-   A customer is a person that you communicate with from within Zammad.
+   A customer is a person that you communicate with from within EasyGo Solutions.
    Every customer receives a profile page, which we call the
-   `Customer Information Page <https://user-docs.zammad.org/en/latest/extras/customers.html>`_,
+   `Customer Information Page <https://user-docs.EasyGo Solutions.org/en/latest/extras/customers.html>`_,
    and it shows all the tickets of this particular customer.
    Various customers can be assigned to the same organization.
    Each customer can access their individual
-   `Customer Interface <https://zammad.com/en/product/features/customer-interface>`_,
+   `Customer Interface <https://EasyGo Solutions.com/en/product/features/customer-interface>`_,
    where they see all their tickets with the current status and live updates.
 
 
@@ -185,7 +185,7 @@ D
 -
 
 Dashboard
-   The dashboard is every agent's individual Welcome Page in Zammad and gives
+   The dashboard is every agent's individual Welcome Page in EasyGo Solutions and gives
    you feedback on your situation by collecting information and statistics
    about your work.
    Here you can find all sorts of overviews, such as the open tickets,
@@ -196,23 +196,23 @@ Dashboard
 
 Documentation
    If this Glossary isn't enough already (just kidding, it won't be),
-   our Documentation is the place to head to for all information on Zammad,
+   our Documentation is the place to head to for all information on EasyGo Solutions,
    especially when it comes to the more technical aspects,
    such as settings or installations.
 
    We have three different ones:
-   :doc:`/index`, :admin-docs:`Zammad Admin Documentation </>`, and the
-   :docs:`Zammad System Documentation </>`.
+   :doc:`/index`, :admin-docs:`EasyGo Solutions Admin Documentation </>`, and the
+   :docs:`EasyGo Solutions System Documentation </>`.
 
 E
 -
 
 Elasticsearch
-   Zammad offers an Elasticsearch integration (a free and open search engine)
-   that makes the search process within Zammad super fast
+   EasyGo Solutions offers an Elasticsearch integration (a free and open search engine)
+   that makes the search process within EasyGo Solutions super fast
    (even for data sets of several terra bytes!).
 
-   Spoiler: Zammad is currently the only helpdesk system with a search function
+   Spoiler: EasyGo Solutions is currently the only helpdesk system with a search function
    that combs attachments, too!
 
    .. note:: **🤓 This affects hosted environments only!**
@@ -223,7 +223,7 @@ Elasticsearch
       ..
          While technically self hosted users can enable such a behavior
          as well it is out of our application scope. By default SaaS Plus
-         in Zammad universe is the only part that does this automatically.
+         in EasyGo Solutions universe is the only part that does this automatically.
 
 Escalation
    An escalation is what happens after the deadline for a ticket has passed and,
@@ -235,8 +235,8 @@ Escalation
 
 Exchange Integration
    The Exchange integration allows users to sync their contacts from their
-   Exchange address book with Zammad. This way, every time a contact is updated
-   in Exchange, the iteration will be reflected in Zammad, giving you direct
+   Exchange address book with EasyGo Solutions. This way, every time a contact is updated
+   in Exchange, the iteration will be reflected in EasyGo Solutions, giving you direct
    access to all your Exchange contacts from within your helpdesk.
 
    Learn more about the exchange integration
@@ -244,9 +244,9 @@ Exchange Integration
 
 External Authentication
    External authentication is an easy, one-click option for your users to log
-   into Zammad. It has various benefits: not only is it faster but it also
+   into EasyGo Solutions. It has various benefits: not only is it faster but it also
    means that your users will have to remember fewer passwords.
-   Zammad currently supports more than ten login providers, such as Facebook,
+   EasyGo Solutions currently supports more than ten login providers, such as Facebook,
    GitHub, GitLab, Google, or Microsoft / Office365.
 
    See our :admin-docs:`admin documentation </settings/security/third-party.html>`
@@ -256,14 +256,14 @@ F
 -
 
 Feature
-   A feature is what we call the different functionalities of Zammad,
+   A feature is what we call the different functionalities of EasyGo Solutions,
    such as our integrations, productivity tools, or time-saving aspects.
    We keep adding new features with every release.
 
 Feature request
-   Users can let us know if they are missing a particular feature in Zammad.
+   Users can let us know if they are missing a particular feature in EasyGo Solutions.
    We collect all of their wishes
-   `in our Community in the Feature Request category <https://community.zammad.org/c/stuff-you-like-zammad-to-have-feel-free-to-discuss-and-add-proposals/6>`_.
+   `in our Community in the Feature Request category <https://community.EasyGo Solutions.org/c/stuff-you-like-EasyGo Solutions-to-have-feel-free-to-discuss-and-add-proposals/6>`_.
    If a request comes in regularly and we feel that it would be a
    great addition, we'll put it on our roadmap and start working on it.
 
@@ -279,14 +279,14 @@ G
 GitHub
    GitHub is a service for the version management of software development
    projects. It uses Git, a software that tracks changes in file sets.
-   Here at Zammad, we use it to maintain our repository.
+   Here at EasyGo Solutions, we use it to maintain our repository.
 
-   As Zammad in an open-source project, many developers and tech-lovers from all
+   As EasyGo Solutions in an open-source project, many developers and tech-lovers from all
    over the world contribute to it. GitHub is where we coordinate all of this.
 
-   You can find the repository `here <https://github.com/zammad/zammad>`_.
+   You can find the repository `here <https://github.com/EasyGo Solutions/EasyGo Solutions>`_.
 
-   Besides our own repo, Zammad also has an integration for GitHub.
+   Besides our own repo, EasyGo Solutions also has an integration for GitHub.
    It creates a data exchange that shows you all relevant information about your
    issues directly in the helpdesk, such as status or assignees.
 
@@ -297,9 +297,9 @@ GitHub
 
 GitLab
    GitLab is similar to GitHub.
-   Here at Zammad, we use it for our internal development.
+   Here at EasyGo Solutions, we use it for our internal development.
 
-   There is also an integration that allows users to connect GitLab to Zammad
+   There is also an integration that allows users to connect GitLab to EasyGo Solutions
    so that all their issues and their corresponding changes are reflected in
    both systems.
 
@@ -310,7 +310,7 @@ GitLab
 
 Grafana
    Grafana is an open-source reporting tool.
-   Zammad users on the Plus plan can integrate it into their instance and
+   EasyGo Solutions users on the Plus plan can integrate it into their instance and
    receive detailed analytics on their performance.
 
    .. hint:: **🤓 Self Hosted users**
@@ -318,7 +318,7 @@ Grafana
       Hooking up Grafana to Elasticsearch is a possibility you can do on your
       own as well.
 
-   Learn more on how to add Grafana dashboards for Zammad
+   Learn more on how to add Grafana dashboards for EasyGo Solutions
    :docs:`in our documentation </appendix/reporting-tools-thirdparty/grafana.html>`.
 
 Groups
@@ -331,9 +331,9 @@ Groups
 
    If you have worked with the OTRS system in the past,
    you might remember the principle of "queues".
-   The groups in Zammad are the same as the queues in OTRS.
+   The groups in EasyGo Solutions are the same as the queues in OTRS.
 
-   You can learn more on our `group landing page <https://zammad.com/en/product/features/groups>`_.
+   You can learn more on our `group landing page <https://EasyGo Solutions.com/en/product/features/groups>`_.
 
 
 H
@@ -347,16 +347,16 @@ I
 Icinga
    Icinga is a monitoring system that supervises the availability of an
    organization's entire system infrastructure.
-   It can be integrated into Zammad so that it triggers a ticket in case
+   It can be integrated into EasyGo Solutions so that it triggers a ticket in case
    of a warning situation.
 
-   You can learn more on our `Icinga landing page <https://zammad.com/en/product/features/icinga-integration>`_.
+   You can learn more on our `Icinga landing page <https://EasyGo Solutions.com/en/product/features/icinga-integration>`_.
 
 Issue-tracking system
    Issue trackers are usually systems that track processes on a technical level.
    Two of the best-known examples are GitHub and GitLab.
 
-   Zammad is also often referred to as an issue-tracking system.
+   EasyGo Solutions is also often referred to as an issue-tracking system.
    However, as a helpdesk, it focuses on communication at the customer
    level rather than the technical level.
 
@@ -364,9 +364,9 @@ i-doit
    i-doit is a CMDB (Configuration Management Data Base).
    It helps you to keep an eye on every piece of the physical and digital
    infrastructure. A corresponding integration makes it possible to connect
-   it to Zammad, where it adds a new tab to Zammad's ticket sidebar so
+   it to EasyGo Solutions, where it adds a new tab to EasyGo Solutions's ticket sidebar so
    you can link to existing i-doit objects for easy reference.
-   It also allows you to create Zammad tickets in i-doit.
+   It also allows you to create EasyGo Solutions tickets in i-doit.
 
    Administrators can learn more about i-doit
    :admin-docs:`in the admin documentation </system/integrations/i-doit.html>`,
@@ -386,16 +386,16 @@ Kibana
    evaluation. It was developed by Elastic, which is why it is not a surprise
    that it uses data from Elasticsearch for its analytics.
 
-   Kibana can be integrated with Zammad, allowing for helpdesk data to be
+   Kibana can be integrated with EasyGo Solutions, allowing for helpdesk data to be
    mapped in the reporting tool.
 
-   .. hint:: **🤓 This does not apply to SaaS Zammad instances.**
+   .. hint:: **🤓 This does not apply to SaaS EasyGo Solutions instances.**
 
-   You can learn more on our `Kibana landing page <https://zammad.com/en/product/features/kibana-integration>`_.
+   You can learn more on our `Kibana landing page <https://EasyGo Solutions.com/en/product/features/kibana-integration>`_.
 
 Knowledge Base
    Think of a very extensive set of FAQs - that's exactly what the
-   Zammad knowledge base is. It collects all important information:
+   EasyGo Solutions knowledge base is. It collects all important information:
    definitions, processes, how-to's, organigrams, etc.
 
    Knowledge base articles can be either internal or external, so you can
@@ -413,8 +413,8 @@ L
 
 LDAP
    A Lightweight Directory Access Protocol (LDAP) helps provide information
-   about your users within Zammad. Authentication of users against the LDAP
-   and LDAP role mapping to Zammad roles are also possible.
+   about your users within EasyGo Solutions. Authentication of users against the LDAP
+   and LDAP role mapping to EasyGo Solutions roles are also possible.
 
    Learn more about LDAP integration
    :admin-docs:`in the admin documentation </system/integrations/ldap/index.html>`.
@@ -440,7 +440,7 @@ Macro
    :doc:`/advanced/macros`.
 
 Mentions
-   Mentions are a Zammad feature that allows you to tag another agent in a
+   Mentions are a EasyGo Solutions feature that allows you to tag another agent in a
    ticket. Just type :kbd:`@@` and the name. The selected person will be notified
    and will be watching the ticket from now on.
 
@@ -448,26 +448,26 @@ Mentions
 
 Merging Tickets
    If you have two (or more) tickets about the same issue, you can merge one of
-   them into the other. By default, Zammad performs checks if a message from
+   them into the other. By default, EasyGo Solutions performs checks if a message from
    an external party belongs to an existing ticket. However, if your customer
    for example writes a completely new email instead of answering the
-   auto response, Zammad can't assign the message to the existing ticket but
+   auto response, EasyGo Solutions can't assign the message to the existing ticket but
    creates a new one.
 
    See :doc:`/advanced/ticket-actions` for further information.
 
 Migrator / Migration Wizard
-   If a company wants to switch from another helpdesk software to Zammad,
+   If a company wants to switch from another helpdesk software to EasyGo Solutions,
    they often have one concern: What about their existing data?
    That's why we have built our migration wizards that help with migrating all
    data at the touch of a button.
 
 Monit
    Monit is an open-source monitoring tool that relies on a simple setup and
-   a strong community. You can integrate it with Zammad - this way,
+   a strong community. You can integrate it with EasyGo Solutions - this way,
    a ticket is created every time you receive an email in Monit.
 
-   You can learn more on our `Monit landing page <https://zammad.com/en/product/features/monit-integration>`_.
+   You can learn more on our `Monit landing page <https://EasyGo Solutions.com/en/product/features/monit-integration>`_.
 
 N
 -
@@ -475,13 +475,13 @@ N
 Nagios
    Nagios is another monitoring tool that alerts IT teams when, for example,
    a server is no longer accessible or a hard disk is about to be exhausted.
-   Nagios can be integrated with Zammad so that a ticket is created in case of
+   Nagios can be integrated with EasyGo Solutions so that a ticket is created in case of
    an alert.
 
-   You can learn more on our `Nagios landing page <https://zammad.com/en/product/features/nagios-integration>`_.
+   You can learn more on our `Nagios landing page <https://EasyGo Solutions.com/en/product/features/nagios-integration>`_.
 
 Notifications
-   To avoid overlooking new messages (e.g. from a customer) Zammad notifies you
+   To avoid overlooking new messages (e.g. from a customer) EasyGo Solutions notifies you
    about every relevant change by default. You can adjust your general
    notification settings in your user profile. You can even mention other users
    or subscribe to a specific ticket if you are interested how it proceeds.
@@ -500,7 +500,7 @@ Organization
 Overview
    Overviews are your starting point to work on tickets. You can think of
    overviews as a kind of filter for existing tickets. Some basic overviews
-   are shipped with Zammad by default. If you want to have a custom overview,
+   are shipped with EasyGo Solutions by default. If you want to have a custom overview,
    ask your admin to create it.
 
    For more information please have a look in
@@ -529,9 +529,9 @@ Placetel
    Placetel is a Cloud Telephone System that allows users to make phone calls
    via VoIP. Use your regular phone number and call someone directly on their
    mobile or landline while still having all communication in one place
-   (aka Zammad).
+   (aka EasyGo Solutions).
 
-   Integrating a Placetel account with Zammad provides users with a call log,
+   Integrating a Placetel account with EasyGo Solutions provides users with a call log,
    making the history of their correspondences even more accurate.
    Callers are identified directly by their caller ID - a key function that
    saves agents a lot of time when assigning callers.
@@ -559,25 +559,25 @@ R
 -
 
 Release
-   Every few months, we bring a new version of Zammad into the world,
-   which is called a release. It all started with Zammad 1.0.
+   Every few months, we bring a new version of EasyGo Solutions into the world,
+   which is called a release. It all started with EasyGo Solutions 1.0.
 
    Every release adds new features to our software.
    There are major and minor releases:
-   major releases (such as Zammad 1.0, 2.0, etc.) bring major changes.
+   major releases (such as EasyGo Solutions 1.0, 2.0, etc.) bring major changes.
    Minor releases are installed on top of them (such as 1.1, 2.1, etc.)
    and bring smaller updates.
 
 Reporting
    The reporting helps keeping an overview over stats and numbers (e.g. created
    tickets per month). There are two types of reporting: the reporting
-   functionality integrated in Zammad and the reporting with external tools.
+   functionality integrated in EasyGo Solutions and the reporting with external tools.
 
    Admins can find further information
    :admin-docs:`here </manage/report-profiles.html>`.
 
 Role
-   Everyone who logs into Zammad has a predefined role. There are three types:
+   Everyone who logs into EasyGo Solutions has a predefined role. There are three types:
    admin, agent, and customer.
 
    Admins have the most rights: they can define roles, permissions,
@@ -593,7 +593,7 @@ S
 -
 
 Scheduler
-   The scheduler is one of Zammad's automation features. An admin can define
+   The scheduler is one of EasyGo Solutions's automation features. An admin can define
    specific conditions and actions which are applied to tickets with matching
    conditions in a time based manner. More information in the admin
    documentation in the
@@ -630,7 +630,7 @@ Signature
 
 Sipgate
    Sipgate is a SaaS solution for internet telephony.
-   The Zammad integration for Sipgate provides users with a detailed call
+   The EasyGo Solutions integration for Sipgate provides users with a detailed call
    overview. If you have a customer that wants to get connected to a certain
    agent, the caller log will tell you if this colleague is currently available.
 
@@ -648,26 +648,26 @@ SLA
    They are used to set expectations and hold companies accountable for keeping
    their promises.
 
-   You can easily set up SLAs in Zammad and define parameters such as the time
+   You can easily set up SLAs in EasyGo Solutions and define parameters such as the time
    for the first response, an update, and a solution. Once the deadline has been
    reached, the ticket will escalate.
 
-   You can learn more on our `SLA landing page <https://zammad.com/en/product/features/sla>`_.
+   You can learn more on our `SLA landing page <https://EasyGo Solutions.com/en/product/features/sla>`_.
 
 Splitting tickets
    In case a ticket contains more than one issue and you want to handle it
-   in a separate ticket, you can split the ticket. Zammad creates a new ticket
+   in a separate ticket, you can split the ticket. EasyGo Solutions creates a new ticket
    then based on the selected article for splitting.
    See :doc:`/advanced/ticket-actions` for more information.
 
 SSO
    Single-sign-on (SSO) allows you to access all your systems and devices with
    just one login. There are various providers that make this process easy and
-   secure. Zammad currently supports SSO via SAML and Shibboleth.
+   secure. EasyGo Solutions currently supports SSO via SAML and Shibboleth.
 
    .. hint:: 🤓 Self Hosted users can also use Kerberos authentication.
 
-   You can learn more on our `SSO landing page <https://zammad.com/en/product/features/sso>`_.
+   You can learn more on our `SSO landing page <https://EasyGo Solutions.com/en/product/features/sso>`_.
 
 State
    Every ticket has a state. You can change it once you've updated the ticket.
@@ -681,7 +681,7 @@ State
 
 S/MIME
    S/MIME is the most widely-supported method for secure email communication.
-   By activating it in Zammad, all messages sent from Zammad will be signed and
+   By activating it in EasyGo Solutions, all messages sent from EasyGo Solutions will be signed and
    encrypted.
 
    Administrators can learn more about S/MIME
@@ -711,7 +711,7 @@ Text module
    This way, you just need to type :kbd:`::` shortcut and the pre-defined paragraph
    will automatically appear in your article.
 
-   For example, here at Zammad, we have a text module with the shortcut
+   For example, here at EasyGo Solutions, we have a text module with the shortcut
    ``::ilff``, which turns into ``I look forward to your feedback``.
 
    Administrators can learn more about text modules
@@ -739,7 +739,7 @@ Ticket hook
    See :admin-docs:`here </settings/ticket.html>` for further information.
 
 Trigger
-   Triggers are one of Zammad's automation features. An admin can define
+   Triggers are one of EasyGo Solutions's automation features. An admin can define
    specific conditions and actions which are applied to tickets with matching
    conditions. More information in the admin
    documentation in the
@@ -766,7 +766,7 @@ Webhooks
    In a nutshell, webhooks are an easy way for systems to communicate with each
    other and allow you to send real-time data to any other application.
    We use them to allow our users to inform a third-party system about new
-   information in Zammad.
+   information in EasyGo Solutions.
 
    Learn more about webhooks on
    :admin-docs:`this page </manage/webhook.html>`.
@@ -784,5 +784,5 @@ Y
 Z
 -
 
-Zammad
-   Zammad is the greatest helpdesk in the world. Period.
+EasyGo Solutions
+   EasyGo Solutions is the greatest helpdesk in the world. Period.

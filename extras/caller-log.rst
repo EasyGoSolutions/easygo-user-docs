@@ -1,4 +1,4 @@
-﻿Caller Log
+Caller Log
 ==========
 
 View and manage call logs from the **phone** panel.
@@ -15,28 +15,28 @@ more on our :admin-docs:`admin documentation </system/integrations.html#integrat
 
 
 .. hint::
-   🏢 The caller log shows all incoming and outgoing calls
+   ?? The caller log shows all incoming and outgoing calls
    **for the entire instance**. The number of entries shown depends on the
    configuration your admin chose.
 
 The caller log offers a lot more than just the last call entries.
-If your administrator configured "Phone Extension to Agent Mapping", Zammad
+If your administrator configured "Phone Extension to Agent Mapping", EasyGo Solutions
 will also help you during answering calls.
 
    New ticket dialog
-      Zammad will open a new ticket dialog if:
+      EasyGo Solutions will open a new ticket dialog if:
 
       - it's able to either guess a single user (see `maybe entries`_)
-      - the callers number belongs to a user known to Zammad
+      - the callers number belongs to a user known to EasyGo Solutions
       - the callers number is yet unknown
 
-      If the user is known to Zammad it will automatically set the ticket
+      If the user is known to EasyGo Solutions it will automatically set the ticket
       customer for you. You can correct this at any time if needed.
 
    User profile
-      Zammad will open the users profile if your user had a customer ticket that
+      EasyGo Solutions will open the users profile if your user had a customer ticket that
       has been updated within the last 30 days. This also applies for calling
-      users that Zammad guesses are a specific user
+      users that EasyGo Solutions guesses are a specific user
       (only if it's one guessed user).
 
    Quick dial
@@ -48,12 +48,12 @@ will also help you during answering calls.
 
 .. _maybe entries:
 
-.. note:: **😕 What are these "maybe" entries?**
+.. note:: **?? What are these "maybe" entries?**
 
    During your day-to-day communication you may also stumble over new customers.
    Usually business users send their phone numbers in their signature.
 
-   Zammad collects and aggregates these information and tries to guess the
+   EasyGo Solutions collects and aggregates these information and tries to guess the
    customer in case it receives a call from an unknown number.
 
    .. figure:: /images/extras/caller-log/maybe-entries.png
@@ -61,7 +61,7 @@ will also help you during answering calls.
 
 .. tip::
 
-   👤 Click on unrecognized numbers to **create a new customer** or maybe
+   ?? Click on unrecognized numbers to **create a new customer** or maybe
    entries to **update an existing customer**.
 
    Unrecognized phone numbers cannot be added to existing customers in

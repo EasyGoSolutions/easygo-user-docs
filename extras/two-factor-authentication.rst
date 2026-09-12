@@ -1,7 +1,7 @@
-﻿Two-Factor Authentication
+Two-Factor Authentication
 =========================
 
-Two-factor authentication (2FA) enhances the security of your Zammad account by
+Two-factor authentication (2FA) enhances the security of your EasyGo Solutions account by
 adding an extra layer of verification beyond a password. It requires you to
 provide two different types of authentication factors, typically something you
 know (like a password) and something you possess (like a mobile device or a
@@ -11,7 +11,7 @@ more in the :admin-docs:`two-factor authentication admin documentation </setting
 
 .. hint::
    If you are required to set up a two-factor authentication for your account,
-   this will be a mandatory action. You will not be able to use Zammad until you
+   this will be a mandatory action. You will not be able to use EasyGo Solutions until you
    set up at least one method.
 
 Set Up Two-Factor Authentication
@@ -21,7 +21,7 @@ If the system admin has enabled this feature, you can head to *Avatar > Profile
 > Password & Authentication* to set it up. Depending on the enabled two-factor
 methods, you may see one or more options in the table.
 
-To set up a two-factor method, use the ⋮ **Actions** menu next to it and choose
+To set up a two-factor method, use the ? **Actions** menu next to it and choose
 ``Set Up``.
 
 .. figure:: /images/extras/two-factor-authentication/user-profile-set-up.png
@@ -48,7 +48,7 @@ process, which includes specific steps.
 Sign-in with a Two-Factor Method
 --------------------------------
 
-When you set up two-factor authentication for your Zammad account, during the
+When you set up two-factor authentication for your EasyGo Solutions account, during the
 next sign-in you will be asked to provide the same two-factor method after
 entering correct username and password.
 
@@ -119,7 +119,7 @@ in *Avatar > Profile > Password & Authentication*.
 Set a Two-Factor Method as Default
 ----------------------------------
 
-To set an already set up two-factor method as default, use the ⋮ **Actions**
+To set an already set up two-factor method as default, use the ? **Actions**
 menu next to it in *Avatar > Profile > Password & Authentication* and choose
 ``Set as default``.
 
@@ -135,7 +135,7 @@ You will always have an option to try signing in using another method.
 Edit a Two-Factor Method
 ------------------------
 
-To edit an already set up two-factor method, use the ⋮ **Actions** menu
+To edit an already set up two-factor method, use the ? **Actions** menu
 next to it in *Avatar > Profile > Password & Authentication* and choose
 ``Edit``.
 
@@ -152,7 +152,7 @@ multiple security keys).
 Remove a Two-Factor Method
 --------------------------
 
-To remove an already set up two-factor method, use the ⋮ **Actions** menu
+To remove an already set up two-factor method, use the ? **Actions** menu
 next to it in *Avatar > Profile > Password & Authentication* and choose
 ``Remove``.
 

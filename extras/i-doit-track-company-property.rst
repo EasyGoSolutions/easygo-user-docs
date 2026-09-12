@@ -35,12 +35,12 @@ And why does the coffee maker keep shutting off before it's finished? 🤬
 So How Does It Work?
 --------------------
 
-In Zammad: Link i-doit Assets To Tickets
+In EasyGo Solutions: Link i-doit Assets To Tickets
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 First, add i-doit assets to a ticket in the ticket sidebar:
 
-.. figure:: /images/extras/i-doit-track-company-property/add-ticket-with-idoit-asset_via-zammad.gif
+.. figure:: /images/extras/i-doit-track-company-property/add-ticket-with-idoit-asset_via-EasyGo Solutions.gif
    :alt: (Screencast) Create a new ticket and link it to an i-doit asset
    :align: center
 
@@ -48,8 +48,8 @@ First, add i-doit assets to a ticket in the ticket sidebar:
 
 Once assets have been linked to a ticket, they can be accessed directly from the ticket view:
 
-.. figure:: /images/extras/i-doit-track-company-property/quickjump-ticket-with-idoit-asset_via-zammad.gif
-   :alt: (Screencast) Access an i-doit asset directly from the Zammad ticket view
+.. figure:: /images/extras/i-doit-track-company-property/quickjump-ticket-with-idoit-asset_via-EasyGo Solutions.gif
+   :alt: (Screencast) Access an i-doit asset directly from the EasyGo Solutions ticket view
    :align: center
 
    Click on a linked asset in the ticket sidebar to open its page in i-doit.
@@ -65,9 +65,9 @@ a list of all the tickets associated with each asset:
    :align: center
 
    Click the 💬 in the toolbar to list an asset's tickets.
-   Use the **🔗 Open in ticket system** button to open the ticket in Zammad.
+   Use the **🔗 Open in ticket system** button to open the ticket in EasyGo Solutions.
 
-You can even launch Zammad's new ticket dialog directly from i-doit,
+You can even launch EasyGo Solutions's new ticket dialog directly from i-doit,
 with the asset already linked for you:
 
 .. figure:: /images/extras/i-doit-track-company-property/add-ticket-with-idoit-asset_via-idoit.gif

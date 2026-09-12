@@ -1,4 +1,4 @@
-﻿Shared Drafts
+Shared Drafts
 =============
 
 Overview
@@ -10,12 +10,12 @@ This feature is optional. If you don't see it in the menu, that means your
 administrator disabled this function. Administrators can learn more in the
 :admin-docs:`group settings section in the admin documentation </manage/groups/settings.html>`.
 
-.. hint:: Zammad technically has two draft functions:
+.. hint:: EasyGo Solutions technically has two draft functions:
 
    - Shared drafts (allow others to load the draft)
    - User drafts
 
-   Every time you change a ticket's field, Zammad will save this in your
+   Every time you change a ticket's field, EasyGo Solutions will save this in your
    personal draft. You then can share this as a shared draft if you want to.
    User drafts are always available!
 
@@ -26,7 +26,7 @@ Handling Drafts
 
 Load a draft
    Existing ticket
-      In the ticket detail view, a button ``📝 Draft available`` is shown if a
+      In the ticket detail view, a button ``?? Draft available`` is shown if a
       draft is available from you or another agent (see first screenshot on this
       page). Hovering over the button tells you who created or changed the
       draft.
@@ -72,11 +72,11 @@ Saving drafts
 
    Existing ticket
       Use the ``^`` button next to the ``Update`` button. If the group of the
-      ticket (or in your selection) allows shared drafts, Zammad will provide
+      ticket (or in your selection) allows shared drafts, EasyGo Solutions will provide
       the option ``Save Draft``. All current changes on the ticket (ticket
       settings, article and its attachments) will be saved to the shared draft.
 
-      When saving was successful, the button ``📝 Draft available`` is show as
+      When saving was successful, the button ``?? Draft available`` is show as
       you can see in the screenshot about loading a draft.
 
       .. figure:: /images/extras/shared-drafts/save-draft-submenu-ticket-detail-view.png

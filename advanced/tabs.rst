@@ -1,7 +1,7 @@
 Tabs
 ====
 
-As you click through Zammad, you will see a list of entries appear in the
+As you click through EasyGo Solutions, you will see a list of entries appear in the
 navigation sidebar on the left side. These are your open tabs.
 You can freely switch between open tabs without losing your work -
 all unsaved changes are automatically backed up to the server.
@@ -9,12 +9,12 @@ all unsaved changes are automatically backed up to the server.
 .. container:: cfloat-left
 
    .. figure:: /images/advanced/tabs/tabs-list.png
-      :alt: Screenshot shows tabs with highlighting in Zammad's navigation sidebar.
+      :alt: Screenshot shows tabs with highlighting in EasyGo Solutions's navigation sidebar.
 
 .. container:: cfloat-right
 
    The following items get opened in a new tab. If you have the item already
-   open, Zammad switches to this tab instead of opening a duplicate.
+   open, EasyGo Solutions switches to this tab instead of opening a duplicate.
 
    \1 Existing tickets
       When you open an existing ticket from an overview or the
@@ -64,10 +64,10 @@ preference.
    :alt: Tab behavior can be adjusted in tickets manually
 
 To overrule your administrator's settings, simply choose the action
-you prefer. Zammad will remember this preference until you change its setting.
+you prefer. EasyGo Solutions will remember this preference until you change its setting.
 
 Close tab
-   Upon updating the ticket, Zammad will automatically close the tab.
+   Upon updating the ticket, EasyGo Solutions will automatically close the tab.
    You'll be returned to the last view that was open.
 
 Close tab on ticket close
@@ -76,11 +76,11 @@ Close tab on ticket close
    states.
 
 Next in overview
-   If you opened a ticket from any overview, Zammad will jump to the next
-   ticket in said overview. Zammad recycles the open tab.
+   If you opened a ticket from any overview, EasyGo Solutions will jump to the next
+   ticket in said overview. EasyGo Solutions recycles the open tab.
 
    This option is only available if you open the ticket from an overview.
-   Zammad will ignore the setting if you opened the ticket directly
+   EasyGo Solutions will ignore the setting if you opened the ticket directly
    and fall back to ``Stay on tab``.
 
 Stay on tab

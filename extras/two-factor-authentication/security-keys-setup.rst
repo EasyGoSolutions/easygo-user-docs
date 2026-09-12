@@ -3,7 +3,7 @@ Security Keys Setup
 
 The security keys method is a type of a two-factor authentication that uses *Web
 Authentication API* in the browser for verifying your identity. You may register
-multiple hardware or software security keys with your Zammad account and then
+multiple hardware or software security keys with your EasyGo Solutions account and then
 they can be used during the sign-in process.
 
 Initially, you will be presented with an empty dialog instructing you to

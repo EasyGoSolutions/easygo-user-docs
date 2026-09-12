@@ -57,7 +57,7 @@ be unclear:
 
    Unlike (primary) organizations, you can assign several organizations to the
    user. These secondary organizations are not as highlighted as the primary
-   ones in Zammad. However, the same behavior applies.
+   ones in EasyGo Solutions. However, the same behavior applies.
 
 :VIP:
 

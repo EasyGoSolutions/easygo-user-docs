@@ -3,11 +3,11 @@ import os
 import time
 import sphinx_rtd_theme
 
-html_logo = "images/zammad_logo_70x61@2x.png"
+html_logo = "images/EasyGo Solutions_logo_70x61@2x.png"
 html_favicon = "images/favicon.ico"
-project = u'Zammad User Documentation'
-copyright = u'%s, The Zammad Foundation' % time.strftime("%Y")
-author = u'The Zammad Foundation'
+project = u'EasyGo Solutions User Documentation'
+copyright = u'%s, The EasyGo Solutions Foundation' % time.strftime("%Y")
+author = u'The EasyGo Solutions Foundation'
 
 source_suffix = '.rst'
 master_doc = 'index'
@@ -36,7 +36,7 @@ on_rtd = os.environ.get('READTHEDOCS', None) == 'True'
 if not on_rtd:
 
    # We're running outside of readthedocs and expect the compiled version to match the Git branch.
-   git_branch = os.environ.get('ZAMMAD_DOCS_GIT_BRANCH', None)
+   git_branch = os.environ.get('EasyGo Solutions_DOCS_GIT_BRANCH', None)
 
    if git_branch == 'main':
       branch = 'latest'
@@ -64,7 +64,7 @@ version = branch
 
 # Default definitions for this documentations version warnings if applicable
 # https://sphinx-version-warning.readthedocs.io/en/latest/configuration.html
-versionwarning_project_slug = "zammad-admin-documentation"
+versionwarning_project_slug = "EasyGo Solutions-admin-documentation"
 versionwarning_admonition_type = "warning"
 versionwarning_project_version = branch
 versionwarning_body_selector = "div.document"
@@ -74,14 +74,14 @@ versionwarning_messages = {
       "You're viewing a <strong>pre-release</strong> version of this "
       "documentation! If you want to see the stable, current version of "
       "this documentation, please see "
-      '<a href="https://user-docs.zammad.org/en/latest/" '
+      '<a href="https://user-docs.EasyGo Solutions.org/en/latest/" '
       'title="current documentation version">here</a>.'
    ),
    "old-version": (
-      "You're viewing a <strong>deprecated</strong> version of Zammad's "
+      "You're viewing a <strong>deprecated</strong> version of EasyGo Solutions's "
       "documentation. If you're still running that version, please consider "
-      '<a href="https://docs.zammad.org/en/latest/install/update.html" '
-      'title="Updating Zammad">Updating Zammad</a> asap.'
+      '<a href="https://docs.EasyGo Solutions.org/en/latest/install/update.html" '
+      'title="Updating EasyGo Solutions">Updating EasyGo Solutions</a> asap.'
       "If you're a hosted user, please contact support."
    ),
 }
@@ -95,13 +95,13 @@ versionwarning_messages = {
 #
 #   which may render the following links:
 #
-#   https://admin-docs.zammad.org/en/pre-release/manage/users/index.html
-#   https://docs.zammad.org/en/latest/appendix/configure-env-vars.html
+#   https://admin-docs.EasyGo Solutions.org/en/pre-release/manage/users/index.html
+#   https://docs.EasyGo Solutions.org/en/latest/appendix/configure-env-vars.html
 #
 #   Note the need for including the file extension as part of the path
 #   relative to the documentation root!
 #
 extlinks = {
-   'admin-docs': (f'https://admin-docs.zammad.org/en/{branch}%s', ''),
-   'docs': (f'https://docs.zammad.org/en/{branch}%s', ''),
+   'admin-docs': (f'https://admin-docs.EasyGo Solutions.org/en/{branch}%s', ''),
+   'docs': (f'https://docs.EasyGo Solutions.org/en/{branch}%s', ''),
 }

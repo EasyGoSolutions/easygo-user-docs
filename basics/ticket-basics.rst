@@ -4,8 +4,8 @@ Ticket Basics
 Introduction
 ------------
 
-In Zammad, **tickets** are used to track customer service requests.
-The first time a customer contacts you about something, Zammad creates a new
+In EasyGo Solutions, **tickets** are used to track customer service requests.
+The first time a customer contacts you about something, EasyGo Solutions creates a new
 ticket. Each message sent between you and the customer is added to that ticket
 until the issue is resolved, the customer is happy and the ticket is finally
 closed. Such a single message in a ticket is called **article**. Basically, you
@@ -13,14 +13,14 @@ can think of a **ticket** as a **conversation** between you and a customer about
 a single issue.
 
 .. figure:: /images/basics/basics/what-is-a-ticket.png
-   :alt: Zammad UI with opened ticket detail view
+   :alt: EasyGo Solutions UI with opened ticket detail view
    :align: center
 
 If you're completely new to a ticket system and handled your customer requests
 with an email client so far, you might think that a ticket system is
 complicated. But the opposite is true:
 
-- All emails are now collected in Zammad (and requests from other channels might
+- All emails are now collected in EasyGo Solutions (and requests from other channels might
   be as well).
 - You and your colleagues can see who is working on which customer request
   ("ticket").
@@ -29,10 +29,10 @@ complicated. But the opposite is true:
 - There is no duplicate work and nothing gets overlooked.
 - You can ask your colleagues directly in the ticket for help in difficult
   cases.
-- With Zammad's intuitive UI, you can focus on what matters: to resolve customer
+- With EasyGo Solutions's intuitive UI, you can focus on what matters: to resolve customer
   issues and answer customer questions.
 
-This means you can work with Zammad in a similar way as with your email client.
+This means you can work with EasyGo Solutions in a similar way as with your email client.
 Except that a ticket has additional attributes. Read on to learn more.
 
 .. _ticket-attributes:
@@ -53,7 +53,7 @@ one of the tabs to bring it back. The available options depend on your
 privileges and the configuration of your system.
 
 It is even possible to create custom fields for tickets (for groups and users
-too). You think such a custom field makes sense? Talk with your Zammad admin,
+too). You think such a custom field makes sense? Talk with your EasyGo Solutions admin,
 it can be set up easily
 (:admin-docs:`admins can read more here </system/object/types.html>`).
 
@@ -79,7 +79,7 @@ completion. By default, there are the following states:
   :doc:`linked tickets </advanced/ticket-actions/link>` or the
   :ref:`ticket history <ticket-submenu>` to see the related ticket.
 
-Zammad's states are color coded. This helps you to understanding the state of
+EasyGo Solutions's states are color coded. This helps you to understanding the state of
 the ticket much faster in general - without having a look into details.
 
 .. include:: /snippets/ticket-state-type-circles.rst
@@ -94,7 +94,7 @@ it is. The three default priorities are:
 - 2 normal
 - 3 high
 
-In case these priorities aren't enough, ask your Zammad admin to create
+In case these priorities aren't enough, ask your EasyGo Solutions admin to create
 additional ones. Admins can find more information
 :admin-docs:`here </system/objects.html#ticket-priority>`.
 The default priorities allow you to immediately recognize the importance of your
@@ -106,7 +106,7 @@ tickets because they are color coded:
    :align: center
 
 You might wonder what such a ticket priority is for. Out of the box, it doesn't
-actually do anything except the highlighting. However, Zammad administrators can
+actually do anything except the highlighting. However, EasyGo Solutions administrators can
 set up all sorts of automation and analytics based on the priority.
 
 Be aware that customers can't set a priority for their own tickets. Otherwise
@@ -123,7 +123,7 @@ find them in the future. You find the tag section under the attribute fields.
    :alt: Screenshot shows highlighted tag section in the ticket sidebar tab
    :align: center
 
-To add a tag, click the ``+ Tag`` button. Depending on your Zammad's
+To add a tag, click the ``+ Tag`` button. Depending on your EasyGo Solutions's
 configuration, you can create new tags by simply type and confirm them with
 :kbd:`enter` or :kbd:`tab`. In any case, you can choose from already available
 tags. Start typing and you see a list with matching suggestions. To remove it,
@@ -136,7 +136,7 @@ This ticket attribute is useful for organizations with more than
 one team. A common way to use groups is to have one for each department of the
 company. Depending on the permissions, you might not see the ticket after
 changing the group and saving the changes. In case you can't see the group
-field, either there is only one group in your Zammad system or you don't have
+field, either there is only one group in your EasyGo Solutions system or you don't have
 the permission to create a ticket in other groups.
 
 Owner

@@ -3,7 +3,7 @@ Authenticator App Setup
 
 The authenticator app method is a type of two-factor authentication that uses a
 mobile application to generate one-time codes for account verification. After
-setting up the authenticator app on your device, you will link it to your Zammad
+setting up the authenticator app on your device, you will link it to your EasyGo Solutions
 account.
 
 .. figure:: /images/extras/two-factor-authentication/authenticator-app-setup.png
@@ -18,7 +18,7 @@ Recommended apps are:
 - `Microsoft Authenticator <https://support.microsoft.com/en-us/account-billing/download-and-install-the-microsoft-authenticator-app-351498fc-850a-45da-b7b6-27e523b8702a>`_
 
 Next, open the authenticator app on your device and find a ``Scan QR Code``
-action, or similar. Point your camera to the Zammad screen and scan the shown QR
+action, or similar. Point your camera to the EasyGo Solutions screen and scan the shown QR
 code in the middle.
 
 .. hint::
@@ -26,7 +26,7 @@ code in the middle.
    your secret. Next, add a manual entry to your authenticator app and enter the
    provided secret when asked.
 
-Your authenticator app should immediately add the new entry for your Zammad
+Your authenticator app should immediately add the new entry for your EasyGo Solutions
 account, and a 6-digit code will be displayed next to it together with a timer.
-Back in Zammad, enter the provided code to the **Security Code** field and click
+Back in EasyGo Solutions, enter the provided code to the **Security Code** field and click
 on ``Set Up``.

@@ -1,7 +1,7 @@
 Keyboard Shortcuts
 ==================
 
-Zammad supports a wide array of keyboard shortcuts to expedite your workflow as
+EasyGo Solutions supports a wide array of keyboard shortcuts to expedite your workflow as
 an expert user. But don't be afraid, you don't have to remember all of them.
 
 Overview
@@ -43,7 +43,7 @@ At the top of the dialog, you can:
 
 These settings are currently only saved in the browser and not in your user
 profile. If you need to deactivate it or switch to the old layout, you should
-make sure to not delete your browser cache / session cookies for your Zammad
+make sure to not delete your browser cache / session cookies for your EasyGo Solutions
 instance.
 
 .. figure:: /images/advanced/keyboard-shortcuts-settings.png

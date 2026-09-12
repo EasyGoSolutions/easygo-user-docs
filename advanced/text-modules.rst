@@ -1,12 +1,12 @@
 Text Modules
 ============
 
-Zammad offers so-called text modules. Text modules will help you to improve your
+EasyGo Solutions offers so-called text modules. Text modules will help you to improve your
 workflow, as you don't have to type your answer on every ticket by hand. You can
 simply choose a fitting text module and insert it into the email.
 To access available text modules, simply type :kbd:`::` within an article body.
 If you found the right text module, just press enter or click with your left
-mouse button and Zammad will insert the module's text at the place your cursor is.
+mouse button and EasyGo Solutions will insert the module's text at the place your cursor is.
 
 .. figure:: /images/advanced/text-modules/choose-text_from_text-module.png
    :alt: Screenshot shows text module selection menu in editor after typing "::" followed by "tf".

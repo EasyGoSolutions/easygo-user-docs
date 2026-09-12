@@ -1,7 +1,7 @@
 Advanced Search
 ===============
 
-With Zammad, you can limit your search to specific attributes.
+With EasyGo Solutions, you can limit your search to specific attributes.
 This allows you to find e.g. tickets with specific key words and states.
 Below information will help you to improve your search results.
 
@@ -24,7 +24,7 @@ Available Attributes
 .. hint::
 
    For a more detailed list of available attributes please take a look into our
-   :docs:`Zammad System Documentation </install/elasticsearch/indexed-attributes.html>`.
+   :docs:`EasyGo Solutions System Documentation </install/elasticsearch/indexed-attributes.html>`.
 
 .. |br| raw:: html
 
@@ -35,12 +35,12 @@ Available Attributes
    :widths: 10, 10, 10, 20
 
    "number", "1118566", "number:1118566 |br|\ number:11185*", "Search for a ticket number."
-   "title", "some title", "title:""some title"" |br|\ title:Printer |br|\ title: ""some ti*""", "If you need to use spaces in the search phrase, use quotes. Zammad will do an AND-search over the given words. You can also use a single keyword without quotation."
+   "title", "some title", "title:""some title"" |br|\ title:Printer |br|\ title: ""some ti*""", "If you need to use spaces in the search phrase, use quotes. EasyGo Solutions will do an AND-search over the given words. You can also use a single keyword without quotation."
    "created_at", "2018-11-18", "created_at:2018-11-18 |br|\ created_at:[2018-11-15 TO 2018-11-18] |br|\ created_at:>now-1h", "You can either use a simple date, a date-range or >now-xh. Please note that the date format needs to be YYYY-MM-DD"
    "state.name", "new |br|\ open |br|\ closed", "state.name: new |br|\ state.name:new OR open", "You can filter for specific ticket states (and even combine them with an OR). Please note that you need to use the English naming for states, unless you have custom ticket states defined in your instance."
    "article_count", "5 |br|\ [5 TO 10] |br|\ [5 TO \*] |br|\ [\* TO 5]", "article_count:5 |br|\ article_count: [5 TO 10] |br|\ article_count:[5 TO \*] |br|\ article_count:[\* TO 5]", "You can search for tickets with a specific number of articles (you can even search for everything with 5 or more articles or even up to 5 articles, if needed)."
    "article.from", "\*bob\*", "article.from:\*bob\*", "Show all tickets that contain articles from ""Bob""."
-   "article.body", "heat |br|\ heat~ |br|\ /joh?n(ath[oa]n)/", "article.body:heat |br|\ article.body:heat~ |br|\ articlebody:/joh?n(ath[oa]n)/", "First example shows every ticket containing the word ""heat"" - you can also use the fuzzy operator ""~"" to search for similar words like e.g. ""head"". Zammad will also allow you to use regular expressions, where ever the attributes allows it."
+   "article.body", "heat |br|\ heat~ |br|\ /joh?n(ath[oa]n)/", "article.body:heat |br|\ article.body:heat~ |br|\ articlebody:/joh?n(ath[oa]n)/", "First example shows every ticket containing the word ""heat"" - you can also use the fuzzy operator ""~"" to search for similar words like e.g. ""head"". EasyGo Solutions will also allow you to use regular expressions, where ever the attributes allows it."
 
 Combining Search Phrases
 ------------------------
@@ -57,7 +57,7 @@ Below are some examples that you could use with this:
    :widths: 10, 20
 
    "state.name:(closed OR open) AND (priority.name:""2 normal"" OR tags:feedback)", "Show every ticket that state is either closed or open and has priority normal or the tag feedback."
-   "state.name:(closed OR open) AND (priority.name:""2 normal"" OR tags:feedback) AND !(*Zammad*)", "This gets the same result as above, expect that we don't want the ticket to contain anything matching to ""Zammad""."
+   "state.name:(closed OR open) AND (priority.name:""2 normal"" OR tags:feedback) AND !(*EasyGo Solutions*)", "This gets the same result as above, expect that we don't want the ticket to contain anything matching to ""EasyGo Solutions""."
    "owner.email:bob@example.net AND state.name:(open OR new)", "Show tickets from bob@example.net that are either open or new."
    "state.name:pending* AND article_count:[1 TO 5]", "Show everything with any pending state and an article count of 1 to 5."
 

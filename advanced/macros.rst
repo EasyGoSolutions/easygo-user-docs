@@ -3,7 +3,7 @@ Macros
 
 If you find yourself repeating the same steps frequently, you should use a macro.
 In such a macro, your admin can pre-define different ticket actions you
-can apply with just a click. As an example, Zammad ships a
+can apply with just a click. As an example, EasyGo Solutions ships a
 **Close & Tag as Spam** macro by default. If applied, the user who executes the
 macro is assigned as owner, a tag ``spam`` is added and the ticket is closed.
 It is even possible to run an :ref:`AI agent <ai-agents>` within a macro on
@@ -49,7 +49,7 @@ available macros:
    :align: center
 
 .. note:: ☝️ **There's just one difference...**
-   When running a macro from the ticket detail view, Zammad may automatically
+   When running a macro from the ticket detail view, EasyGo Solutions may automatically
    open the next ticket (or close the current one, or just stay on it),
    depending on how the macro was set up. When running it from the overviews
-   page, Zammad will always stay on the overviews page.
+   page, EasyGo Solutions will always stay on the overviews page.

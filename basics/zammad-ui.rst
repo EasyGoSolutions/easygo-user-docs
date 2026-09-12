@@ -1,7 +1,7 @@
-Zammad UI
+EasyGo Solutions UI
 =========
 
-The user interface (UI) of Zammad is designed to provide an intuitive experience
+The user interface (UI) of EasyGo Solutions is designed to provide an intuitive experience
 for users. It is built around the concept of simplicity, clarity, and
 accessibility and is based on common software design principles which should
 make the UI pretty self explanatory.
@@ -14,11 +14,11 @@ as tooltips and a contextual help. Use them wherever needed.
 Overview
 --------
 
-The screenshot below shows the Zammad UI with the ticket detail view opened.
-Read on for a description of the different main elements of Zammad.
+The screenshot below shows the EasyGo Solutions UI with the ticket detail view opened.
+Read on for a description of the different main elements of EasyGo Solutions.
 
 .. figure:: /images/basics/basics/main-ui.png
-   :alt: Screenshot shows the Zammad UI with an opened ticket detail view.
+   :alt: Screenshot shows the EasyGo Solutions UI with an opened ticket detail view.
 
 Navigation sidebar (1)
    This is the left sidebar which includes the search, notifications, overviews,
@@ -47,7 +47,7 @@ Navigation Sidebar
 ------------------
 
 The navigation sidebar displays different areas. You might not see all of them
-because some depend on the configuration of your Zammad. The navigation sidebar
+because some depend on the configuration of your EasyGo Solutions. The navigation sidebar
 is always visible. That means if you don't know where you are, you can always
 go back to the dashboard, your overviews or an opened ticket, for example.
 
@@ -56,18 +56,18 @@ go back to the dashboard, your overviews or an opened ticket, for example.
    .. figure:: /images/basics/basics/navigation-bar-details.png
       :scale: 60%
       :align: center
-      :alt: Screenshot shows Zammad's navigation bar with highlighted areas.
+      :alt: Screenshot shows EasyGo Solutions's navigation bar with highlighted areas.
 
 .. container:: cfloat-left
 
    Search and notification area (1)
       Includes the search where you can search for users, organizations, tickets
-      and basically every in Zammad available information. Next to the search you
-      can find the Zammad logo. In case there is a notification, it shows you a
+      and basically every in EasyGo Solutions available information. Next to the search you
+      can find the EasyGo Solutions logo. In case there is a notification, it shows you a
       badge with a count about how many notifications you got.
 
    Navigation (2)
-      Allows you to switch to different Zammad screens like the dashboard,
+      Allows you to switch to different EasyGo Solutions screens like the dashboard,
       overviews, knowledge base or phone screen.
 
    Content tabs (3)
@@ -88,7 +88,7 @@ The sidebar on the right side displays all ticket relevant information and
 includes additional functionality. The most important one is the ticket sidebar.
 Switch between the different sidebars by clicking the desired tab on the left
 side of the sidebar. The available tabs are depending on the ticket and the
-configured features of your Zammad.
+configured features of your EasyGo Solutions.
 
 Ticket tab
    This tab shows the ticket information like owner, group, priority and state

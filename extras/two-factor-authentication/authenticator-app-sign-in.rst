@@ -3,14 +3,14 @@ Authenticator App Sign-in
 
 To sign-in with authenticator app two-factor method, first enter your username
 and password and click ``Sign in``. Then, open the authenticator app on your
-device, and get the 6-digit code next to your Zammad account.
+device, and get the 6-digit code next to your EasyGo Solutions account.
 
 .. figure:: /images/extras/two-factor-authentication/authenticator-app-security-code.png
    :alt: Security Code in Google Authenticator App
    :align: center
    :width: 30%
 
-Back in Zammad, enter the provided code to the **Security Code** field and click
+Back in EasyGo Solutions, enter the provided code to the **Security Code** field and click
 on ``Sign in``.
 
 .. figure:: /images/extras/two-factor-authentication/authenticator-app-sign-in.png

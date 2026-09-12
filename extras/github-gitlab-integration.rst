@@ -2,7 +2,7 @@ GitHub / GitLab Integration
 ===========================
 
 With the issue tracker integration, you can monitor GitHub / GitLab issues right
-from within a Zammad ticket. This feature is optional. If you don't see it in
+from within a EasyGo Solutions ticket. This feature is optional. If you don't see it in
 the ticket sidebar, that means your administrator hasn't enabled it yet.
 Administrators can learn more in the
 :admin-docs:`issue tracker integration in the admin documentation </system/integrations#integrations-for-issue-trackers>`.

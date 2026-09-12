@@ -4,7 +4,7 @@ AI Features
 Introduction
 ------------
 
-Zammad offers AI-powered features to help you manage support tickets more
+EasyGo Solutions offers AI-powered features to help you manage support tickets more
 efficiently.
 
 .. note:: The AI features have to be configured and activated by your
@@ -12,9 +12,9 @@ efficiently.
    information about how to configure and activate them can be found in the
    :admin-docs:`AI section </ai/provider.html>` of the admin documentation.
 
-Many AI features in Zammad include a feedback mechanism. If you notice issues or
+Many AI features in EasyGo Solutions include a feedback mechanism. If you notice issues or
 are unsatisfied with the results, please use the feedback option to let your
-Zammad admin know. You can like (thumbs up) or dislike (thumbs down) the
+EasyGo Solutions admin know. You can like (thumbs up) or dislike (thumbs down) the
 AI-generated content. The dislike option allows you to leave an optional comment.
 
 .. warning::
@@ -39,9 +39,9 @@ summary sidebar tab. This indicator only shows up if changes were made by
 someone other than you (since you already know the updated state).
 
 .. figure:: /images/extras/ai/ticket-summary.png
-   :alt: Screenshot shows Zammad's ticket detail view with highlighted ticket summary banner and summary sidebar
+   :alt: Screenshot shows EasyGo Solutions's ticket detail view with highlighted ticket summary banner and summary sidebar
 
-Depending on the configuration of your Zammad instance, the summary includes
+Depending on the configuration of your EasyGo Solutions instance, the summary includes
 the following sections:
 
 - Customer intent
@@ -63,8 +63,8 @@ clicking the writing assistant tools button.
    :alt: Screenshot shows selected text in editor with opened writing assistant tools menu
    :align: center
 
-Zammad ships default writing assistant tools. The availability depends on the
-configuration of your Zammad instance. You might even have additional custom
+EasyGo Solutions ships default writing assistant tools. The availability depends on the
+configuration of your EasyGo Solutions instance. You might even have additional custom
 tools in case your admin added them.
 
 - **Expand draft into well-written section**: Uses your draft as a base and
@@ -79,7 +79,7 @@ tools in case your admin added them.
 - **Rewrite a complex section and make it easy to understand**: Removes
   unnecessary parts and rewrites your text in a clear and understandable way.
 
-After selecting a tool, Zammad shows a dialog where you can compare the
+After selecting a tool, EasyGo Solutions shows a dialog where you can compare the
 original text and the AI suggestion:
 
 .. figure:: /images/extras/ai/text-tools-approval-dialog.png
@@ -124,7 +124,7 @@ Things to consider:
 - The answer is created in a knowledge base category for which you have editor
   permissions. The AI chooses one of these categories.
 
-If a similar knowledge base answer already exists, Zammad shows it in a dialog
+If a similar knowledge base answer already exists, EasyGo Solutions shows it in a dialog
 before creating a new one. This gives you the chance to review existing related
 answers to prevent duplicate submissions.
 
@@ -156,7 +156,7 @@ manually. Ask your admin for details and have a look at the
 Ticket history
    If an AI agent applied changes, you can see a ticket history entry telling
    you the name of the AI agent. If you notice ongoing issues with what the
-   AI agent did, inform your Zammad admin.
+   AI agent did, inform your EasyGo Solutions admin.
 
    Example of a history entry of an AI agent:
 

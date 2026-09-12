@@ -29,7 +29,7 @@ point.
 - Escalated Tickets: tickets which are escalated or will escalate in the next
   10 minutes.
 
-Your Zammad admin may have created additional overviews. These are based on
+Your EasyGo Solutions admin may have created additional overviews. These are based on
 conditions, which are basically rules, to define which ticket appears in which
 overview.
 
@@ -73,13 +73,13 @@ on the search bar at the top of the left navigation sidebar or use the keyboard
 shortcut :kbd:`s`.
 
 .. figure:: /images/basics/find-ticket/search.png
-   :alt: Screenshot shows the Zammad search with search results in the navigation sidebar.
+   :alt: Screenshot shows the EasyGo Solutions search with search results in the navigation sidebar.
    :width: 60%
    :align: center
 
-But the search is not only about tickets. Zammad also searches for users,
+But the search is not only about tickets. EasyGo Solutions also searches for users,
 organizations and chat logs. It basically searches for all information which is
-stored in Zammad and which got indexed by Elasticsearch, like:
+stored in EasyGo Solutions and which got indexed by Elasticsearch, like:
 
 - Message subject and text
 - Names and email addresses
@@ -92,7 +92,7 @@ results. These results are separated by type to make sure you won't get lost in
 the results. Selecting one of those results will open a new navigation tab
 (if not already opened) with the item.
 
-If you press :kbd:`enter` or click on ``Show Search Details``, Zammad displays
+If you press :kbd:`enter` or click on ``Show Search Details``, EasyGo Solutions displays
 a page with the search results:
 
 .. figure:: /images/basics/find-ticket/search-details.png

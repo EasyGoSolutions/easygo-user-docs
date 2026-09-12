@@ -9,7 +9,7 @@ correspondence in a thread/conversation in the ticket detail view.
 Any time you open a ticket, a new tab will appear in your
 :doc:`navigation bar </advanced/tabs>` on the left side. To close a tab (in the
 sense of remove it from the navigation bar, not setting the ticket state to
-closed), just click the ``X`` button in the tab. Zammad automatically saves
+closed), just click the ``X`` button in the tab. EasyGo Solutions automatically saves
 your changes in opened ticket tabs, no matter if you already applied the changes
 or just edited things and switched to somewhere else. This means it is no
 problem to create a new ticket while editing an existing one. Simply switch back
@@ -108,7 +108,7 @@ article. The behavior is similar to an email client.
    :width: 70%
    :align: center
 
-Zammad even allows you to **quote text** from an existing article. This is
+EasyGo Solutions even allows you to **quote text** from an existing article. This is
 especially helpful if an answer refers to different parts of the original
 message or the text is pretty long. This feature is limited to communication
 type articles like email where the response buttons are available.
@@ -169,7 +169,7 @@ Simultaneous Ticket Processing
 .. _caution-im-working-here:
 
 It can happen that two or more agents open a ticket at the same time. To prevent
-edit conflicts and customers receiving contradictory answers, Zammad shows you
+edit conflicts and customers receiving contradictory answers, EasyGo Solutions shows you
 who is viewing or editing the ticket currently. You can find this information
 in the bottom bar where avatars of all agents are displayed.
 Be sure to communicate with your colleagues to prevent these problems before
@@ -222,9 +222,9 @@ Your administrator sets these goals - such as responding to all inquiries within
 eight hours - with optional custom deadlines for specific customers. When such
 a deadline is passed, the ticket escalates.
 
-Zammad notifies you by default when tickets approach or exceed their deadlines.
+EasyGo Solutions notifies you by default when tickets approach or exceed their deadlines.
 Configure these notifications in your
-:doc:`profile settings </extras/user-menu-profile-settings>`. Zammad also ships
+:doc:`profile settings </extras/user-menu-profile-settings>`. EasyGo Solutions also ships
 a default overview called "Escalated Tickets". This overview includes already
 escalated tickets and tickets which are expected to escalate within the next
 10 minutes.
@@ -269,6 +269,6 @@ To remove the highlighting, click on the button again with the selected text.
 -----
 
 You now know the basics and how to work with tickets in general. However, there
-are many more features in Zammad which can be very useful in your daily
+are many more features in EasyGo Solutions which can be very useful in your daily
 work. Have a look at the **Advanced Topics** and **Extra** sections in the left
 navigation menu where you can find more information.

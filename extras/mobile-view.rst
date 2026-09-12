@@ -1,7 +1,7 @@
-﻿Mobile View
+Mobile View
 ===========
 
-Zammad provides a dedicated mobile view for working on the go. The mobile
+EasyGo Solutions provides a dedicated mobile view for working on the go. The mobile
 view offers a focused, touch-friendly interface for your daily tasks,
 with a modern design and improved accessibility.
 
@@ -104,7 +104,7 @@ with a modern design and improved accessibility.
 Features
 --------
 
-Mobile view provides you with a way to do your common Zammad daily tasks while
+Mobile view provides you with a way to do your common EasyGo Solutions daily tasks while
 on the go:
 
 - Manage & use your ticket overviews
@@ -117,7 +117,7 @@ on the go:
 
 Mobile view also has some exclusive features:
 
-- Innovative Zammad UX
+- Innovative EasyGo Solutions UX
 - Next-level accessibility
 - Ready for multi-device usage
 - Progressive web app (PWA) support
@@ -148,7 +148,7 @@ the focus on important information:
 Access
 ------
 
-Zammad now implements a mobile device detection, which results in automatic
+EasyGo Solutions now implements a mobile device detection, which results in automatic
 redirection to mobile view. Even with this mechanism in place it's possible to
 explicitly switch between the views by using app links:
 

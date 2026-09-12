@@ -21,8 +21,8 @@ Select a fitting template and click ``Apply``. The configured ticket fields
 will be populated with the data from the template.
 
 Field collisions
-   Zammad detects field collisions. This means: If you already filled in data
-   in a field that would be filled by the template, Zammad will not overwrite
+   EasyGo Solutions detects field collisions. This means: If you already filled in data
+   in a field that would be filled by the template, EasyGo Solutions will not overwrite
    the data present.
 
 Can't add or adjust templates?

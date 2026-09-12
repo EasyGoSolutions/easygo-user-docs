@@ -3,7 +3,7 @@ Reporting
 
 The reporting is useful to view statistics, get an overview of the number of
 tickets (e.g. tickets of a specific customer) and to download ticket data from
-Zammad. You can find the reporting section in the bottom left corner in Zammad
+EasyGo Solutions. You can find the reporting section in the bottom left corner in EasyGo Solutions
 next to the avatar icon or your initials:
 
 .. figure:: /images/extras/reporting/menu-bar-reporting.png

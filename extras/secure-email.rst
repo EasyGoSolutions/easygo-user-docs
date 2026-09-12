@@ -1,7 +1,7 @@
-﻿Secure Email
+Secure Email
 =============
 
-Zammad supports two systems for secure email communication:
+EasyGo Solutions supports two systems for secure email communication:
 
 - **PGP** (Pretty Good Privacy)
 - **S/MIME** (Secure/Multipurpose Internet Mail Extensions)
@@ -17,7 +17,7 @@ Prerequisites
   yet.
 - PGP and S/MIME only work if the other party is using them too.
 - Your administrator is responsible for adding all necessary certificates
-  and keys in Zammad's admin settings.
+  and keys in EasyGo Solutions's admin settings.
 
 .. hint::
    Administrators can find configuration details in the admin documentation:
@@ -26,7 +26,7 @@ Prerequisites
    - :admin-docs:`S/MIME </system/integrations/smime/index.html>`
 
 If these requirements are met, the feature should work out of the box and
-Zammad encrypts, decrypts, signs and verifies signatures of emails if possible.
+EasyGo Solutions encrypts, decrypts, signs and verifies signatures of emails if possible.
 Your admin can define a default behavior for each group. However, you can
 override the default for each outgoing email article on your own by switching
 encryption and signing on or off (see example in screenshot below with turned
@@ -61,7 +61,7 @@ In the details, you can hover over the security status to see more information.
    * - |lock|
      - **Encrypted for you.** Even if intercepted by a third party, they won't be able to read it.
    * - |encryption-error|
-     - **Cannot be decrypted.** Zammad lacks the required key to decrypt this message.
+     - **Cannot be decrypted.** EasyGo Solutions lacks the required key to decrypt this message.
    * - |signed|
      - **Successfully verified.** You can be confident it's authentic and the content has not been modified.
    * - |not-signed|
@@ -116,8 +116,8 @@ Sign: Unable to find certificate for validation
       :alt: Ticket article shows a warning for failed verification of a signed message
       :align: center
 
-   Without the sender's certificate, Zammad cannot verify the message signature.
-   Ask your administrator to add the sender's certificate to Zammad's
+   Without the sender's certificate, EasyGo Solutions cannot verify the message signature.
+   Ask your administrator to add the sender's certificate to EasyGo Solutions's
    certificate store.
 
    .. warning:: Always verify certificates in-person or over the phone!
@@ -131,8 +131,8 @@ Encryption: Unable to find private key to decrypt
       :align: center
 
    This message was encrypted with a certificate that does not match any on
-   file. Without a matching private key, Zammad cannot decrypt the message.
-   Ask your administrator to verify your organization's private key in Zammad's
+   file. Without a matching private key, EasyGo Solutions cannot decrypt the message.
+   Ask your administrator to verify your organization's private key in EasyGo Solutions's
    certificate store, and ask the sender to double-check the public key they
    used to encrypt the message.
 
@@ -140,11 +140,11 @@ Outgoing Email
 ^^^^^^^^^^^^^^
 
 The ``Encrypt`` button is disabled
-   Ask your administrator to add the recipient's certificate to Zammad's
+   Ask your administrator to add the recipient's certificate to EasyGo Solutions's
    certificate store.
 
 The ``Sign`` button is disabled
-   Ask your administrator to verify your organization's private key in Zammad's
+   Ask your administrator to verify your organization's private key in EasyGo Solutions's
    certificate store.
 
 I can see a ``PGP`` and ``S/MIME`` button. What should I do?

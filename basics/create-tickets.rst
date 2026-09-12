@@ -1,8 +1,8 @@
 Create Tickets
 ==============
 
-When a customer messages you over a channel which is fetched by Zammad, a ticket
-is created automatically (except Zammad recognizes it as a follow-up, then it
+When a customer messages you over a channel which is fetched by EasyGo Solutions, a ticket
+is created automatically (except EasyGo Solutions recognizes it as a follow-up, then it
 gets added as an article to an existing ticket). However, there might be cases
 where you need to create a ticket manually. Examples:
 
@@ -34,7 +34,7 @@ subject and the text as email content.
 Title
 -----
 
-This is the title of a ticket which is shown in many places in Zammad.
+This is the title of a ticket which is shown in many places in EasyGo Solutions.
 For example this gets displayed in overviews. It is also used as the subject
 for email communication. For emails, a ticket identifier is automatically
 appended (e.g. ``Ticket#901234 - I need help!``).
